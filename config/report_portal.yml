@@ -1,0 +1,5 @@
+uuid: 082fb31c-f53d-452d-94ac-6524657ea753
+endpoint: https://web.demo.reportportal.io/api/v1
+project: lopushanska_personal
+launch: lopushanska_TEST_EXAMPLE
+tags: [tag1, tag2]
